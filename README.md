@@ -1,3 +1,5 @@
+It is required to connect a vpn for uploading image. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
